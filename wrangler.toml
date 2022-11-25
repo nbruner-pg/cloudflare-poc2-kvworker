@@ -1,0 +1,6 @@
+name = "poc2-kvworker"
+main = "src/index.ts"
+compatibility_date = "2022-11-04"
+kv_namespaces = [
+    { binding = "ghmc_kvpoc", id = "<id-value>" }
+]
